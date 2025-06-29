@@ -1,0 +1,4 @@
+ultralytics
+cv2
+supervision
+torchreid
