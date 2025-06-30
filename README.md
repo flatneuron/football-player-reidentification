@@ -32,11 +32,11 @@ football-player-reidentification/
 
 ## Data & Demo
 
-The project uses custom-processed Re-ID data that i creating from the first 5 seconds of the input video for training and includes a demo video showing the final output. This data is hosted on Google Drive and will be downloaded automatically when you run the Colab notebook.
-
-You can also find the data and a demo output video at the following link:
-**[Please provide the Google Drive link here]**
+The project uses custom-processed Re-ID data and other things. This data is hosted on Google Drive and will be downloaded automatically when you run the Colab notebook.
+Here is the gdrive link
+**https://drive.google.com/drive/folders/15YpEAID-cWFgljI86hr4i1HeVMDS9zMf?usp=sharing**
 
 The data includes:
 - `reid-model-training-data`: Manually cleaned and processed image data for training the person re-identification model.
 - A demo output video showing the result of the re-identification pipeline.
+-  Pretrained osnet fine tuned reid model weights
