@@ -1,5 +1,7 @@
 # Football Player Re-Identification
 
+[**Read the Full Project Report Here**](https://docs.google.com/document/d/1Tp3L2c6RpBTrRMuJFQiLlwjbOPdYybL9kNGGkITFznI/edit?usp=sharing)
+
 This project provides an end-to-end solution for re-identifying football players in video footage. It includes scripts for training a person re-identification (Re-ID) model and a complete pipeline to process a video, track players, and assign unique IDs to them throughout the match.
 
 The entire project is set up to run seamlessly in Google Colab. just click on (open in colab)
